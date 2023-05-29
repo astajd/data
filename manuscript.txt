@@ -1,1 +1,1486 @@
+SUBMISSION TITLE:
 
+Changes in sexually transmitted infections-related
+sexual risk-taking among young Croatian adults:
+Results from a 2005-2021 three-wave population-based
+study
+Abstract:
+Aim To examine the prevalence and dynamics of risky sexual behaviors among emerging Croatian
+adults in the 2005-2021 period. Method Three surveys were conducted on large-scale national
+samples of young adults aged 18-24 in 2005 (N=1,092) and 18-25 in 2010 and 2021 (N=1,005 and
+N=1,210, respectively). The 2005 and 2010 studies were conducted by face-to-face interviews on
+stratified probabilistic samples. The 2021 study was conducted by computer-assisted webinterviewing on a quota-based random sample from the largest national online panel. Results
+Compared to 2005 and 2010, the age at coital debut increased for both genders in 2021 (the median
+by one year, to 18 years, and the mean by half a year, to 17.5 years in men and 17.9 in women). In
+the 2005-2021 period, condom use increased by about 15% both at first intercourse (to 80%) and in
+consistent use (to 40% in female and 50% in male participants). Controlling for basic sociodemographics, Cox and logistic regressions indicated that─for both genders─in 2005 and 2010,
+compared to 2021, the risks/odds were significantly higher for reporting earlier sexual debut
+(AHR=1.25-1.37), multiple sexual partners (AOR=1.62-3.31), and concurrent relationships
+(AOR=3.36-4.64), while the odds were lower for condom use at first sexual intercourse
+(AOR=0.24-0.46) and consistently (AOR=0.51-0.64). Conclusion Risky sexual behaviors decreased in
+the 2021 survey compared to the previous two waves, in both genders. Nonetheless, sexual risktaking is still frequent among young Croatian adults. Introduction of sexuality education and other
+national-level public health interventions to reduce sexual risk-taking thus remains a public health
+imperative.
+Keywords:
+Sexuality, sexually transmitted infections, change in sexual risk-taking, sexual and reproductive
+health, condom use, emerging adults
+
+Croatian Medical Journal
+
+Powered by TCPDF (www.tcpdf.org)
+
+STROBE Statement—checklist of items that should be included in reports of observational studies
+
+Title and abstract
+
+Item
+No.
+1
+
+Page No.
+Recommendation
+(a) Indicate the study’s design with a commonly used term in the title or the abstract
+
+1
+
+(b) Provide in the abstract an informative and balanced summary of what was done and what was
+
+1
+
+found
+Introduction
+Background/rationale
+
+2
+
+Explain the scientific background and rationale for the investigation being reported
+
+3-4
+
+Objectives
+
+3
+
+State specific objectives, including any prespecified hypotheses
+
+4
+
+Methods
+Study design
+
+4
+
+Present key elements of study design early in the paper
+
+4-6
+
+Setting
+
+5
+
+Describe the setting, locations, and relevant dates, including periods of recruitment, exposure,
+
+4-6
+
+Participants
+
+6
+
+follow-up, and data collection
+(a) Cohort study—Give the eligibility criteria, and the sources and methods of selection of
+
+4-6
+
+participants. Describe methods of follow-up
+Case-control study—Give the eligibility criteria, and the sources and methods of case
+ascertainment and control selection. Give the rationale for the choice of cases and controls
+Cross-sectional study—Give the eligibility criteria, and the sources and methods of selection of
+participants
+(b) Cohort study—For matched studies, give matching criteria and number of exposed and
+
+not applicable
+
+unexposed
+Case-control study—For matched studies, give matching criteria and the number of controls per
+case
+Variables
+
+7
+
+Clearly define all outcomes, exposures, predictors, potential confounders, and effect modifiers.
+
+6
+
+Give diagnostic criteria, if applicable
+Data sources/
+
+8*
+
+measurement
+
+For each variable of interest, give sources of data and details of methods of assessment
+
+6, 22-23
+
+(measurement). Describe comparability of assessment methods if there is more than one group
+
+Bias
+
+9
+
+Describe any efforts to address potential sources of bias
+
+5, 12
+
+Study size
+
+10
+
+Explain how the study size was arrived at
+
+5
+
+Continued on next page
+
+1
+
+Quantitative
+
+11
+
+variables
+Statistical
+
+Explain how quantitative variables were handled in the analyses. If applicable, describe which
+
+7, 22-23
+
+groupings were chosen and why
+12
+
+methods
+
+(a) Describe all statistical methods, including those used to control for confounding
+
+7
+
+(b) Describe any methods used to examine subgroups and interactions
+
+7
+
+(c) Explain how missing data were addressed
+
+5
+
+(d) Cohort study—If applicable, explain how loss to follow-up was addressed
+
+4-5
+
+Case-control study—If applicable, explain how matching of cases and controls was addressed
+Cross-sectional study—If applicable, describe analytical methods taking account of sampling
+strategy
+(e) Describe any sensitivity analyses
+
+not
+applicable
+
+Results
+Participants
+
+13*
+
+(a) Report numbers of individuals at each stage of study—eg numbers potentially eligible, examined
+
+5
+
+for eligibility, confirmed eligible, included in the study, completing follow-up, and analysed
+(b) Give reasons for non-participation at each stage
+
+not
+applicable
+
+(c) Consider use of a flow diagram
+
+not
+applicable
+
+Descriptive data
+
+14*
+
+(a) Give characteristics of study participants (eg demographic, clinical, social) and information on
+
+22-23
+
+exposures and potential confounders
+(b) Indicate number of participants with missing data for each variable of interest
+
+5, 22-23
+
+(c) Cohort study—Summarise follow-up time (eg, average and total amount)
+
+not
+applicable
+
+Outcome data
+
+15*
+
+Cohort study—Report numbers of outcome events or summary measures over time
+
+not
+applicable
+
+Case-control study—Report numbers in each exposure category, or summary measures of exposure
+
+not
+applicable
+
+Main results
+
+16
+
+Cross-sectional study—Report numbers of outcome events or summary measures
+
+5, 22-23
+
+(a) Give unadjusted estimates and, if applicable, confounder-adjusted estimates and their precision
+
+8-9, 22-25
+
+(eg, 95% confidence interval). Make clear which confounders were adjusted for and why they were
+2
+
+included
+
+Other analyses
+
+17
+
+(b) Report category boundaries when continuous variables were categorized
+
+22-23
+
+(c) If relevant, consider translating estimates of relative risk into absolute risk for a meaningful time
+
+not
+
+period
+
+applicable
+
+Report other analyses done—eg analyses of subgroups and interactions, and sensitivity analyses
+
+not
+applicable
+
+Discussion
+Key results
+
+18
+
+Summarise key results with reference to study objectives
+
+9-10
+
+Limitations
+
+19
+
+Discuss limitations of the study, taking into account sources of potential bias or imprecision. Discuss
+
+12
+
+both direction and magnitude of any potential bias
+Interpretation
+
+20
+
+Give a cautious overall interpretation of results considering objectives, limitations, multiplicity of
+
+9-13
+
+analyses, results from similar studies, and other relevant evidence
+Generalisability
+
+21
+
+Other information
+Funding
+22
+
+Discuss the generalisability (external validity) of the study results
+
+12-13
+
+Give the source of funding and the role of the funders for the present study and, if applicable, for the
+
+2
+
+original study on which the present article is based
+*Give information separately for cases and controls in case-control studies and, if applicable, for exposed and unexposed groups in cohort and cross-sectional studies.
+Note: An Explanation and Elaboration article discusses each checklist item and gives methodological background and published examples of transparent reporting. The STROBE
+checklist is best used in conjunction with this article (freely available on the Web sites of PLoS Medicine at http://www.plosmedicine.org/, Annals of Internal Medicine at
+http://www.annals.org/, and Epidemiology at http://www.epidem.com/). Information on the STROBE Initiative is available at www.strobe-statement.org.
+
+3
+
+1
+
+Changes in sexually transmitted infections-related sexual risk-taking among young
+
+2
+
+Croatian adults: Results from a 2005-2021 three-wave population-based study
+
+3
+4
+
+Abstract
+
+5
+
+Aim To examine the prevalence and dynamics of risky sexual behaviors among emerging
+
+6
+
+Croatian adults in the 2005-2021 period.
+
+7
+
+Method Three surveys were conducted on large-scale national samples of young adults aged
+
+8
+
+18-24 in 2005 (N=1,092) and 18-25 in 2010 and 2021 (N=1,005 and N=1,210, respectively).
+
+9
+
+The 2005 and 2010 studies were conducted by face-to-face interviews on stratified
+
+10
+
+probabilistic samples. The 2021 study was conducted by computer-assisted web-interviewing
+
+11
+
+on a quota-based random sample from the largest national online panel.
+
+12
+
+Results Compared to 2005 and 2010, the age at coital debut increased for both genders in
+
+13
+
+2021 (the median by one year, to 18 years, and the mean by half a year, to 17.5 years in men
+
+14
+
+and 17.9 in women). In the 2005-2021 period, condom use increased by about 15% both at
+
+15
+
+first intercourse (to 80%) and in consistent use (to 40% in female and 50% in male
+
+16
+
+participants). Controlling for basic socio-demographics, Cox and logistic regressions
+
+17
+
+indicated that─for both genders─in 2005 and 2010, compared to 2021, the risks/odds were
+
+18
+
+significantly higher for reporting earlier sexual debut (AHR=1.25-1.37), multiple sexual
+
+19
+
+partners (AOR=1.62-3.31), and concurrent relationships (AOR=3.36-4.64), while the odds
+
+20
+
+were lower for condom use at first sexual intercourse (AOR=0.24-0.46) and consistently
+
+21
+
+(AOR=0.51-0.64).
+
+22
+
+Conclusion Risky sexual behaviors decreased in the 2021 survey compared to the previous
+
+23
+
+two waves, in both genders. Nonetheless, sexual risk-taking is still frequent among young
+
+24
+
+Croatian adults. Introduction of sexuality education and other national-level public health
+
+25
+
+interventions to reduce sexual risk-taking thus remains a public health imperative.
+
+1
+
+1
+2
+
+Key words: Sexuality, sexually transmitted infections, change in sexual risk-taking, sexual
+
+3
+
+and reproductive health, condom use, emerging adults
+
+4
+5
+6
+
+Funding: The 2005 survey wave was funded by the Global Fund to Fight AIDS, Tuberculosis
+
+7
+
+and Malaria national grant and the Ministry of Health and Social Welfare of the Republic of
+
+8
+
+Croatia; the 2010 survey was funded by the Croatian Ministry of Science, Education, and
+
+9
+
+Sports and the United Nations Development Programme Croatia; the 2021 survey was funded
+
+10
+
+by the Croatian Science Foundation.
+
+11
+
+2
+
+1
+
+Introduction
+
+2
+
+Sexual risk-taking refers to behaviors that can result in adverse effects on
+
+3
+
+reproductive, sexual, and psychological health, including sexually transmitted infections
+
+4
+
+(STI), sexual victimization, unwanted pregnancies, and reduced well-being. Risky sexual
+
+5
+
+behaviors typically include coital debut at early age, unprotected sexual activities, having
+
+6
+
+multiple sexual partners, and engaging in concurrent sexual relationships (1-3). Early sexual
+
+7
+
+debut and having multiple partners are consistently associated with unprotected sex and
+
+8
+
+increased risk of acquiring STI (4-7).
+
+9
+
+Globally, the highest age-specific prevalence of risky sexual behavior is found in
+
+10
+
+adolescents and emerging adults, with condomless sexual intercourse ranking second among
+
+11
+
+health-related mortality risks in young women and men (8). Transition to adulthood is a
+
+12
+
+period of intense exploration of sexuality, including experimenting with various sexual
+
+13
+
+practices and changing sexual partners (9). At the same time, young people often lack
+
+14
+
+knowledge of sexual health, emotional and cognitive skills necessary for responsible decision-
+
+15
+
+making, and communication competencies required for negotiating safe sex (9,10). The
+
+16
+
+patterns of sexual risk-taking acquired at young age continue to affect sexual behaviors in
+
+17
+
+later life, adding to cumulative risk of STI (11).
+
+18
+
+Recent international studies indicated that over the past 10-15 years sexual activity
+
+19
+
+and early sexual debut somewhat decreased among young people (12-19), albeit with
+
+20
+
+significant socio-cultural variations. Nonetheless, the prevalence of STI, unplanned
+
+21
+
+pregnancies, and abortions remained high or even increased among the youth
+
+22
+
+(5,10,12,13,17,20). In Europe, sexually active 15-24 year-olds bear the highest risk of
+
+23
+
+Chlamydia trachomatis infection, with nearly half of new cases being observed in that group
+
+24
+
+(21). Similarly, nearly 50% of all newly contracted common STI in the United States are
+
+25
+
+found among adolescents and young adults (22).
+
+3
+
+1
+
+In Croatia, findings from a sole national repeated cross-sectional study on sexual
+
+2
+
+behavior among young people conducted in 2005 and 2010 revealed substantial and stable
+
+3
+
+levels of risky sexual behaviors (23-25). In particular, persistently low levels of consistent
+
+4
+
+condom use (about 30%) were observed, with one third of participants reporting delayed
+
+5
+
+condom application and one quarter concurrent sexual partners. At the same time, more than
+
+6
+
+80% of participants from both study waves believed that they were at low or no risk of
+
+7
+
+contracting STI. More recently, poor knowledge of risks to sexual and reproductive health
+
+8
+
+was reported among Croatian senior high school students (26), as well as high prevalence of
+
+9
+
+human papillomavirus among young women (27). This hardly comes as a surprise due to
+
+10
+
+absence of school-based sexual education in the country—which remains a highly politicized
+
+11
+
+issue—and the lack of organized national-level prevention efforts to reduce sexual risks (28-
+
+12
+
+30).
+
+13
+
+Systematic monitoring of sexual behavior in Croatian youth is a public health
+
+14
+
+imperative considering the levels of sexual risk-taking, prevalence of common STI, and
+
+15
+
+lacking education in responsible sexual behavior. This paper presents findings from the third
+
+16
+
+wave of the aforementioned national study on sexuality in young people in Croatia conducted
+
+17
+
+in 2021. The study aims to examine the current prevalence of risky sexual behaviors in
+
+18
+
+emerging adults and its dynamics over the 2005-2021 period with the purpose of informing
+
+19
+
+evidence-based national policy planning and public health interventions focused on young
+
+20
+
+people’s sexual and reproductive health.
+
+21
+
+Method
+
+22
+
+Sampling procedure
+
+23
+
+In 2005 and 2010, face-to-face surveys on sexuality-related knowledge, attitudes, and
+
+24
+
+behaviors were carried out in large-scale national probability-based samples of young adults
+
+25
+
+(24). Response rates were 79.5% in 2005 and 32.1% in 2010, with similar rates of non-
+
+4
+
+1
+
+response due to the study topic (23.4% and 23.8%, respectively). Considerably lower
+
+2
+
+response rate in 2010 corresponds to a long-term negative trend in survey participation
+
+3
+
+(31,32). In 2021, the largest national commercial online panel was employed as the only
+
+4
+
+feasible solution for data collection during the coronavirus disease 2019 (COVID-19)
+
+5
+
+pandemic. Quota-based random sampling of the panel members was used with respect to
+
+6
+
+region, age (18-25 cohort), and gender. Applying post-hoc weighting for gender and age, the
+
+7
+
+sample is broadly representative of the emerging adult population in Croatia. Response rate in
+
+8
+
+the panel was 29%, with 84% of the responders completing the survey. Socio-demographic
+
+9
+
+structure of the three samples is presented in Table 1.
+
+10
+11
+
+(TABLE 1 ABOUT HERE)
+Participants
+
+12
+
+In 2005, the sample included 1,092 participants in the 18-24 age-range (Mage=21.0,
+
+13
+
+49.3% female). In 2010 and 2021, participants’ age ranged 18-25 years. 1,005 participants
+
+14
+
+were surveyed in 2010 (Mage=21.5, 49.3% female) and 1,210 in 2021 (Mage=21.7, 48.0%
+
+15
+
+female). The one-year difference in age ranges did not compromise between-study
+
+16
+
+comparisons. Just one of the 1,764 sexually active participants from the 2010 and 2021
+
+17
+
+samples reported having first sexual intercourse at the age of 25. Furthermore, 25 year-olds in
+
+18
+
+2010 and 2021 did not differ from their 24 year-old peers in the reported lifetime number of
+
+19
+
+sexual partners (χ22010=8.96, p=0.11; χ22021=6.94, p=0.23), number of partners in the past year
+
+20
+
+(χ22010=7.17, p=0.10; χ22021=0.98, p=0.81), condom use at first intercourse (χ22010=0.89,
+
+21
+
+p=0.35; χ22021=0.04, p=0.84), and consistent condom use in the past year (χ22010=5.01, p=0.08;
+
+22
+
+χ22021=1.04, p=0.59). Three participants from the 2021 sample who provided impossible
+
+23
+
+values (e.g. being 55 at coital debut) were excluded from the final sample (N2021=1,207).
+
+24
+
+Data collection
+
+25
+
+In 2005 and 2010 participants were interviewed in their homes. In 2021, computer-
+
+5
+
+1
+
+assisted web-interviewing was used. Members of a commercial online panel were selected
+
+2
+
+randomly. Data collection took place from mid-November 2021 to early January 2022. The
+
+3
+
+Ethical Review Board of the Faculty of Humanities and Social Sciences, University of
+
+4
+
+Zagreb, approved all study procedures. All participants gave informed consent verbally or
+
+5
+
+electronically. The 2010 and 2021 surveys additionally included a biological component (not
+
+6
+
+reported here).
+
+7
+
+Questionnaire
+
+8
+9
+
+An originally developed knowledge, attitudes, beliefs, and practices questionnaire was
+used. The first part (administered by face-to-face interviewing in 2005 and 2010) asked about
+
+10
+
+socio-demographic characteristics, HIV/AIDS knowledge, attitudes toward gendered sexual
+
+11
+
+roles, beliefs about condom use, and self-esteem. The rest was self-administered and focused
+
+12
+
+on sexual behaviors. The questionnaires consisted of 150-190 items and took 25-30 minutes
+
+13
+
+to complete. The original questionnaire was piloted among high-school and university
+
+14
+
+students. Instruments used for comparisons in this paper were identical in all study waves.
+
+15
+
+Measures
+
+16
+
+Age, parental education, family socio-economic status, type of the longest place of
+
+17
+
+residence, and frequency of attending religious services were assessed as socio-demographic
+
+18
+
+characteristics (for measure description see Table 1). Risky sexual behaviors were assessed
+
+19
+
+with the following one-item indicators: age at sexual debut (defined as first coital
+
+20
+
+intercourse), protection/contraception use at first sexual intercourse, condom use consistency
+
+21
+
+(past 12 months), number of sexual partners (“individuals you had vaginal intercourse with“)
+
+22
+
+over lifetime and during the last 12 months, and ever having concurrent sexual relationships.
+
+23
+
+An additional socio-sexual characteristic measured was gender of sexual partners (“persons
+
+24
+
+with whom you had oral, anal, or vaginal sex”).
+
+25
+
+Statistical analysis
+
+6
+
+1
+
+Survival analysis was carried out to compare coital debut among study waves. The
+
+2
+
+probability of (not) having coitus before a certain age was estimated by Kaplan-Meier curves.
+
+3
+
+Significance of between-study difference in sexual initiation was assessed by log-rank test.
+
+4
+
+Cox regression was used to address changes in sexual initiation controlling for basic socio-
+
+5
+
+demographic characteristics. To assess change over time in other core indicators of sexual
+
+6
+
+risk-taking (number of sexual partners in the past 12 months, condom use at first intercourse,
+
+7
+
+consistent condom use, and concurrent sexual relationships), multivariate binary logistic
+
+8
+
+regression analysis was employed with socio-demographics controlled for. All statistical
+
+9
+
+analyses were performed using the IBM SPSS Statistics v25 package. Probability value <0.05
+
+10
+
+was set as a threshold for statistical significance.
+
+11
+
+Results
+
+12
+
+Sexual experiences and behaviors over the 2005-2021 period
+
+13
+
+About 84% female and 88% male participants from the 2005 and 2010 samples had the
+
+14
+
+experience of sexual intercourse (Table 2). In 2021, the proportion decreased by almost 10%
+
+15
+
+in women and 20% in men. This change was reflected in the age at sexual debut. Compared to
+
+16
+
+earlier study waves, in 2021 the average age increased by about half a year, to 17.5 years
+
+17
+
+(standard deviation /SD/=2.3) in men (95% confidence interval /CI/=17.3-17.7) and 17.9
+
+18
+
+(SD=1.7) in women (95%CI=17.7-18.1). Similarly, median age at sexual debut increased
+
+19
+
+from 17 years (interquartile range /IQR/=16-18) for both genders in 2005 and 2010 to 18
+
+20
+
+years in 2021 (IQR=17-19 for women and 16-19 for men).
+
+21
+22
+
+(TABLE 2 ABOUT HERE)
+Kaplan-Meier’s estimation of the hazard function of sexual initiation also indicated an
+
+23
+
+increase in age at sexual debut (Figure 1). Log-rank testing confirmed that the change was
+
+24
+
+significant for both female (M(2)=41.68, p<0.001) and male participants (M(2)=34.94,
+
+25
+
+p<0.001).
+
+7
+
+1
+2
+
+(FIGURE 1 ABOUT HERE)
+Lifetime number of sexual partners was three or less for most young women across the
+
+3
+
+observed period (Table 2), with the median of two in 2005 and 2021 and three in 2010
+
+4
+
+(IQR=1-4). Change in the number of sexual partners was more pronounced in young men.
+
+5
+
+While considerable proportions of male participants in the 2005 and 2010 samples reported
+
+6
+
+more than five (around 30%) or even more than 10 (16.5-22%) lifetime sexual partners, the
+
+7
+
+majority of men in 2021 reported up to three partners. The proportion of those who had a
+
+8
+
+single lifetime partner more than doubled from about 15% in 2005 and 2010 to 33% in 2021.
+
+9
+
+Accordingly, median number of men’s sexual partners decreased from four in 2005 (IQR=2-
+
+10
+
+7) and five in 2010 (IQR=3-8) to three in 2021 (IQR=1-5). As for the past year, majority of
+
+11
+
+female participants (69-79%) reported a single partner. Among men, one sexual partner was
+
+12
+
+reported by majority of participants in all study waves as well, with this proportion increasing
+
+13
+
+from about 50% in 2005 and 2010 to 70% in 2021.
+
+14
+
+In all study waves, roughly twice as many men than women reported ever having
+
+15
+
+concurrent sexual partnerships (Table 2). However, the proportion of participants reporting
+
+16
+
+the experience decreased by the factor of three in 2021 compared to 2005 and 2010—in both
+
+17
+
+women (from about 17% to 5%) and men (from about 30% to 11%).
+
+18
+
+In 2021 condom use at first intercourse was reported by over 80% of female and male
+
+19
+
+participants (Table 2), an increase from the previous wave of about 12% in female and 15% in
+
+20
+
+male participants. Consistent condom use over the past 12 months among the sexually active
+
+21
+
+participants increased by 10-15% in 2021 compared to previous waves. Even with this
+
+22
+
+increase, less than 50% of male and 40% of female participants reported consistent use of
+
+23
+
+condoms in 2021.
+
+24
+
+Change in sexual risk-taking in the 2005-2021 period
+
+25
+
+Next, we tested for temporal changes in the select five indicators of sexual risk-taking
+
+8
+
+1
+
+(age at coital debut, number of sexual partners in the past year, condom use at first vaginal
+
+2
+
+intercourse, consistent condom use over the past year, and concurrent sexual relationships)
+
+3
+
+while accounting for basic socio-demographic characteristics. Cox regression indicated that
+
+4
+
+the risk of reporting earlier sexual debut was significantly higher in men in 2005 and 2010
+
+5
+
+compared to 2021 (by 1.25-1.37 times, respectively), and in women by 1.27 times in 2010
+
+6
+
+compared to 2021 (Table 3).
+
+7
+
+(TABLE 3 ABOUT HERE)
+
+8
+
+Similarly, the odds of reporting any of the four remaining core indicators of sexual risk-
+
+9
+
+taking—controlling for socio-demographic characteristics—were lower in 2021 compared to
+
+10
+
+previous surveys, regardless of gender (Table 4). Female and male participants in 2005 and
+
+11
+
+2010 were 1.62-3.31 times more likely to report multiple sexual partners in the past year and
+
+12
+
+3.36-4.64 times more likely to report ever having concurrent sexual partners than in 2021.
+
+13
+
+Compared to 2021, in 2005 and 2010 both genders were less likely to report condom use at
+
+14
+
+first sexual intercourse (by 54-76%) and consistently over the past 12 months (by 36-49%).
+
+15
+16
+
+(TABLE 4 ABOUT HERE)
+Overall, the observed associations between study wave and sexual risks were moderate
+
+17
+
+in size in the case of concurrent sexual relationships, condom use at first intercourse, and
+
+18
+
+number of sexual partners in the past 12 months. In other instances, the effect was small (33).
+
+19
+
+Discussion
+
+20
+
+This paper aimed to examine the prevalence of risky sexual behavior in emerging
+
+21
+
+Croatian adults (early coital debut, multiple and concurrent sexual partners, non-use of
+
+22
+
+condom consistently and at first intercourse) over the 2005-2021 period. Previous comparison
+
+23
+
+of the 2005 and 2010 surveys pointed to stable and substantial levels of sexual risk-taking
+
+24
+
+(24). In the 2021 survey, nearly all core sexual risk indicators significantly decreased
+
+9
+
+1
+
+compared to the 2005-2010 period. However, the prevalence of sexual risk-taking remains
+
+2
+
+substantial among young people in Croatia, particularly inconsistent condom use.
+
+3
+
+The observed change can be attributed to at least two sets of environmental and
+
+4
+
+cultural factors. The first one is related to the COVID-19 pandemic considering that the 2021
+
+5
+
+wave was conducted 20-22 months after its onset. As indicated by a number of international
+
+6
+
+studies (34-37), the imposed restrictions—as well as a spillover effect of sensitization to
+
+7
+
+health-related risks from the COVID-19 infection (35,38)—may have impacted sexual
+
+8
+
+behaviors measured in the retrospect of 12 months (fewer sexual partners, more consistent
+
+9
+
+condom use). Delayed coital debut and decreased number of sexual partners in younger
+
+10
+
+participants is also possible. Nevertheless, it is unlikely that the change observed in this study
+
+11
+
+is predominantly associated with the pandemic. Most young people did not stop engaging in
+
+12
+
+sexual risk-taking during the pandemic (39-41), some even more intensely so to counter stress
+
+13
+
+and loneliness (42). Additionally, the Croatian government imposed a soft lockdown
+
+14
+
+following the initial two months of the pandemic (43), placing no limit on within-country
+
+15
+
+movement and social contact in small groups. In a national online survey of emerging
+
+16
+
+Croatian adults intimacy and sexuality during the COVID-19 pandemic, conducted 10 months
+
+17
+
+following its outbreak (44), only three percent of participants reported pandemic-related
+
+18
+
+separation from their partners. Additionally, an equal proportion of sexually active
+
+19
+
+participants (12%) reported having no sexual partners and having multiple sexual partners
+
+20
+
+during the pandemic. A lower frequency of condom use during the pandemic was reported by
+
+21
+
+16% of participants, while only eight percent reported an increased frequency of condom use.
+
+22
+
+To summarize, it appears that the pandemic affected sex lives of a minority of emerging
+
+23
+
+Croatian adults and did so inconsistently, contributing both to less and more sexual risk-
+
+24
+
+taking.
+
+10
+
+1
+
+The second, socio-cultural set of factors therefore seems likelier to have influenced the
+
+2
+
+observed change in sexual risk-taking among emerging Croatian adults, particularly as recent
+
+3
+
+international studies carried out before the pandemic pointed to a declining trend in sexual
+
+4
+
+activity among younger cohorts in industrialized countries (12-19). Decreased sexual activity,
+
+5
+
+delayed coital debut, and lower number of sexual partners are attributed to several recent
+
+6
+
+developments. Ubiquitous social media use among young people (45,46) could be a partial
+
+7
+
+replacement or even a barrier for real-life sexual interactions given that online social
+
+8
+
+networking provides new forms of sexual expression (47), increases insecurity regarding
+
+9
+
+physical appearance and sexual performance (48,49), supplies entertainment that may
+
+10
+
+compete with sexual activity (15)—much like video streaming services and online sexual
+
+11
+
+contents (50)—and impedes development of face-to-face communication skills (51). Another
+
+12
+
+possible explanation is delayed transition to adulthood (50,52,53), which involves postponed
+
+13
+
+partnered cohabitation and prolonged co-residence with parents. This entails reduced
+
+14
+
+opportunities for sexual activity and persisting parental control over behaviors that often
+
+15
+
+contribute to sexual risk-taking, such as substance abuse. There is also increasing evidence
+
+16
+
+about the effectiveness of comprehensive school-based sex education, where available, in
+
+17
+
+promoting condom use, reducing risk of acquiring STI, and managing potentially harmful
+
+18
+
+effects of sexualized media (13,54-56). Finally, religiosity has been on the rise among young
+
+19
+
+people in the West over the past 15-20 years, the process partially influenced by neo-
+
+20
+
+conservative social and political movements (57). Although recent meta-analyses indicated
+
+21
+
+that religiosity provides limited protection against sexual risk-taking among young people
+
+22
+
+(58,59), intrinsic religiosity is increasing in Croatia (60) with the Catholic church and newly
+
+23
+
+established faith-based civic associations actively encouraging young people to practice and
+
+24
+
+advocate religious values (61,62).
+
+11
+
+1
+
+The present study has several notable limitations. Firstly, health-related and social
+
+2
+
+context surrounding the COVID-19 pandemic may have affected sexual behavior of young
+
+3
+
+Croatian adults reported in the 2021 survey and reduced comparability with previous surveys.
+
+4
+
+As previously discussed, if present, this effect is unlikely to have substantially affected the
+
+5
+
+findings considering that the lockdown was mild in Croatia, with emerging adults reporting
+
+6
+
+either no effect of the pandemic on their sex lives or mixed outcomes (44). Secondly, the
+
+7
+
+2021 sampling and data collection approach diverged from the 2005 and 2010 studies, which
+
+8
+
+presents another potential obstacle to between-wave comparisons. The use of the national
+
+9
+
+online panel was driven by data collection feasibility during the ongoing pandemic, but also
+
+10
+
+by substantial and continued decrease in response rates observed in conventional field surveys
+
+11
+
+(63), particularly among young people (64). Large self-selection bias calls into question
+
+12
+
+probabilistic nature of conventional (probability-based) samples (65). Additionally, certain
+
+13
+
+drawbacks raised in the context of commercial online samples, such as that participants are
+
+14
+
+“professionalized”, were shown not to substantially affect data quality (66). Finally, the
+
+15
+
+validity of findings reported across the three surveys is limited by self-reporting, with some
+
+16
+
+indicators being additionally affected by recall bias. However, such bias is likely limited,
+
+17
+
+because our participants were in early stages of their sexual life and the retrospective
+
+18
+
+measures of sexual behavior were limited to the period of past 12 months. In spite of these
+
+19
+
+shortcomings, the three surveys remain the sole national-level research project in Croatia
+
+20
+
+aimed at monitoring and analyzing sexual behaviors, attitudes, and beliefs among emerging
+
+21
+
+adults.
+
+22
+
+In conclusion, sexual risk-taking is still relatively frequent among young people in
+
+23
+
+Croatia, but has substantially declined in the past decade. This positive change does not
+
+24
+
+appear to be driven by any systematic efforts to reduce sexual and reproductive health risks.
+
+25
+
+At national level, public health efforts to improve sexual and reproductive health in young
+
+12
+
+1
+
+people remain sporadic and lacking in evidence about their efficacy. Due to political
+
+2
+
+controversies, comprehensive sexuality education is not included in the national educational
+
+3
+
+curriculum despite the fact that the majority of young people (67) and their parents (68) are in
+
+4
+
+favor of such addition. Continuous monitoring of sexual behaviors in young people therefore
+
+5
+
+remains a public health imperative, as do continued efforts in providing evidence-based
+
+6
+
+prevention, intervention, and education aimed to improve young people’s sexual and
+
+7
+
+reproductive health
