@@ -929,12 +929,4 @@ Edukacija bolesnika za samozbrinjavanje rane
 Edukacija člana obitelji/skrbnika za tretiranje rane                                                                                                                                                                                                          
 Edukacija bolesnika za tretiranje umjetnih otvora                                                                                                                                                                                                             
 Edukacija člana obitelji/skrbnika za tretiranje umjetnih otvora                                                                                                                                                                                               
-Edukacija bolesnika za primjenu kisika u kući                                                                                                                                                                                                                 
-
-
-
-PITANJA ZA PRIJE POSLIJE:
-1. JE LI OSOBA S DEMENCIJOM OSLOBOĐENJA SUDJELOVANJA NA ZDRAVSTVENU ZAŠTITU
-2. KOJA PRAVA IZ ZDRAVSTVENOG OSIGURANJA OSTVARUJE OSOBA S DEMENCIJOM
-3. KOJE USLUGE U PRIMARNOJ ZDRAVSTVENOJ ZAŠTITI MOŽE DOBITI OSOBA S DEMENCIJOM
-
+Edukacija bolesnika za primjenu kisika u kući                                                                                                                                                                                    
